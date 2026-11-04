@@ -84,7 +84,7 @@ const Hero = () => {
             <motion.img
               src={slide.mobile}
               alt={slide.alt}
-              className="h-full w-full object-cover"
+              className={`h-full w-full object-cover`}
               initial={{ scale: 1.08 }}
               animate={{ scale: 1 }}
               transition={{ duration: 8, ease: "linear" }}

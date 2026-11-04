@@ -58,7 +58,7 @@ const UpcomingEvents = () => {
   }, [events]);
 
   if (error) {
-    return <div className="min-h-screen bg-background" />;
+    return;
   }
 
   return (

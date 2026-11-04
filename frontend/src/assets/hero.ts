@@ -1,4 +1,4 @@
-import desktop09 from "./mytg.png";
+import desktop09 from "./mytgl.png";
 import desktop02 from "./02.jpg";
 import desktop11 from "./11.jpg";
 import desktop32 from "./32.jpg";
