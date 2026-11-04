@@ -1,4 +1,4 @@
-import desktop09 from "./09.jpg";
+import desktop09 from "./mytg.jpeg";
 import desktop02 from "./02.jpg";
 import desktop11 from "./11.jpg";
 import desktop32 from "./32.jpg";
@@ -7,7 +7,7 @@ import desktop53 from "./53.jpg";
 import desktop05 from "./05.jpg";
 import desktop15 from "./15.jpg";
 
-import mobile09 from "./09.jpg";
+import mobile09 from "./mytg.jpeg";
 import mobile03 from "./03.jpg";
 import mobile11 from "./11.jpg";
 import mobile38 from "./38.jpg";
@@ -57,7 +57,7 @@ export const heroSlides: HeroSlide[] = desktopImages.map((desktop, index) => ({
   desktop,
   mobile: mobileImages[index]!,
   alt: `Wole Emmanuel — hero ${desktopNumbers[index]}`,
-  ctas:
+  ctas:-
     index === 0
       ? [{ label: "Latest Music", href: "#latest-music" }]
       : index === 1
