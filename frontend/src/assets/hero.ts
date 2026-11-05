@@ -1,5 +1,5 @@
 import desktop09 from "./mytgl.png";
-import desktop02 from "./131.jpg";
+import desktop02 from "./117.jpg";
 import desktop11 from "./11.jpg";
 import desktop32 from "./32.jpg";
 import desktop47 from "./47.jpg";
